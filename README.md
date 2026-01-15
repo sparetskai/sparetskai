@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋Hi, I'm Sofiya Paretska
 
-<!--
-**sparetskai/sparetskai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer | HTML | CSS | JavaScript
 
-Here are some ideas to get you started:
+Frontend developer with experience in building responsive and interactive web interfaces using HTML, CSS (including SASS) and JavaScript. Experienced in creating user-friendly layouts, integrating APIs, and implementing adaptive UI components. Familiar with version control using Git and following coding best practices. Passionate about learning modern web technologies and creating practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+HTML | CSS | SASS | JavaScript | Git
+
+💻 Featured Projects
+IceCream Landing
+ – a responsive landing page for an ice cream brand developed in a team, focused on semantic HTML, SASS, and adaptive design.
+
+Vanilla App Template
+ – a small web application template built with vanilla JavaScript and integrated with APIs. Features include dynamic content rendering and responsive UI components.
+
+Pixabay Image Search
+ – a web project using JavaScript and Axios to search and display images from the Pixabay API with lightbox support.
+
+🗣️ Languages
+
+
+📫 How to reach me:
+
